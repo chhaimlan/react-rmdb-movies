@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+# This is template use api key and clone movies , trailer, youtube
+
+# this is hosting on web
+
+# https://react-rmdb-movies.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
